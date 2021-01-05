@@ -21,7 +21,7 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobani&exclude_repo=portfolio-tcb,tiagobani.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiagobani&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Onde me encontrar
+## Where to find me
 
 [![Gmail Badge](https://img.shields.io/badge/-tiagobani01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagobani01@gmail.com)](mailto:tiagobani01@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-tiago.bani01-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tiago.bani01)](https://medium.com/@tiago.bani01) | [![Linkedin Badge](https://img.shields.io/badge/-TiagoBani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-bani-1b8b184a/)](https://www.linkedin.com/in/tiago-bani-1b8b184a/)
 
