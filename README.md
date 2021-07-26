@@ -10,8 +10,8 @@
 
 ## Interests and Activities
 
-> - :desktop_computer: I am currently working as a Software Engineer at [CPQI Group](https://cpqi.com/). I work with [Calypso](https://www.calypso.com/) Analyst and System integrations
-> - 🌱 I work in client [BTGPactual](https://www.btgpactualdigital.com/) in *Private Bond* project.
+> - :desktop_computer: I am currently working as a Software Engineer.
+> - 🌱 I work with Analyst and System integrations.
 > - 👯 Trust me to help you for projects involving JAVA, PHP, Nodejs (Angular and React also please me)
 > - 💬 Open to help someone in need, in whatever way I can!
 > - 😄 I am willing, proactive, I work very well in groups and I am very communicative.
