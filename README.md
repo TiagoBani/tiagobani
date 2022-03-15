@@ -1,7 +1,7 @@
 # Tiago Bani 
 ### About me 
 
-> * 33 years old
+> * 34 years old
 > * Developer
 > * Native of *Rio de Janeiro*
 > * Computer Science, 
